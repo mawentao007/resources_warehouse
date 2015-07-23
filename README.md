@@ -6,4 +6,4 @@ sbt模版--logback && Akka
 
 some tex
 ----
-64res
+* 64res
